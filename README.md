@@ -5,3 +5,5 @@ AvengersWeChat/PadChat-SDK 地址：https://github.com/AvengersWeChat/PadChat-SD
 不会安装与搭建即无法使用这套程序，加入我的星球可以免费帮远程搭建，并且还可以一起讨论wx协议。
 
 仅供自己学习研究使用，引起任何法律纠纷概不负责。
+
+![Image text](https://github.com/dqss/PadChat-SDK/blob/master/20180515211230.jpg)
